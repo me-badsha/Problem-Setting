@@ -3,6 +3,6 @@ A repository to keep track of the problems that I have created on various online
 
 | OJ | Name of the Contest  | Judge link |
 | -- | -------- | ----------- |
-| HackerRank | SBI Beginners Contest | [Enter Contest](www.hackerrank.com/sbi-beginners-contest) |
-| HackerRank | SWE Educational Round 01 | [Enter Contest](www.hackerrank.com/swe-educational-round-01) |
+| HackerRank | SBI Beginners Contest | [Enter Contest](https://www.hackerrank.com/contests/sbi-beginners-contest/challenges) |
+| HackerRank | SWE Educational Round 01 | [Enter Contest](https://www.hackerrank.com/contests/swe-educational-round-01/challenges) |
 
