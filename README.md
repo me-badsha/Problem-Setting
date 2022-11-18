@@ -3,6 +3,7 @@ A repository to keep track of the problems that I have created on various online
 
 | OJ | Name of the Contest  | Judge link |
 | -- | -------- | ----------- |
+| toph | 5th DIU SWE Intra Department Fall-2022 | [Enter Contest](https://toph.co/c/5th-diu-swe-intra-department-fall-2022) |
 | HackerRank | SBI Beginners Contest | [Enter Contest](https://www.hackerrank.com/contests/sbi-beginners-contest/challenges) |
 | HackerRank | SWE Educational Round 01 | [Enter Contest](https://www.hackerrank.com/contests/swe-educational-round-01/challenges) |
 
